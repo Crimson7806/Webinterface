@@ -1,4 +1,4 @@
-export const BASE_PATH = "https://crimsonservers.net"
+export const BASE_PATH = "https://crimsonservers.net:25572"
 
 export function get(path: string) {
 
