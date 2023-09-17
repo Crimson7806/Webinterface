@@ -1,4 +1,4 @@
-export const BASE_PATH = "https://crimsonservers.netlify.app"
+export const BASE_PATH = "https://crimsonservers.net"
 
 export function get(path: string) {
 
